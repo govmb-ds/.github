@@ -24,8 +24,18 @@ We support the entire public sector in Manitoba, including:
 - Service delivery organizations
 - Municipalities
 
-## How You Can Get Involved
+## Get Involved
+
+### Work Here
 
 We're hiring! See [the job ad](https://jobsearch.gov.mb.ca/adnoSearch?adno=44081) for more information.
 
 We are accepting expressions of interest for PhD and post-doc positions through the [CIHR Health System Impact Fellowship](https://cihr-irsc.gc.ca/e/51721.html?filter=manitoba) program. 
+
+### Already in the public sector?
+
+You should consider:
+
+- Joining the Data Science Employee Network
+- Participating in the Data Science Practicum
+- Connecting with our team to discuss project opportunities

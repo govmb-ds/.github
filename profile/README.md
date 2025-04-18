@@ -3,13 +3,15 @@
 
 The Data Science Program is the lead provincial agency for the use of data and evidence in Manitoba.
 
-We deliver a range of services in support of evidence-informed policy and operations in Manitoba's public sector:
+## What We Do
+
+We deliver a range of services in support of evidence-informed policy and operations:
 
 - Applied machine learning
 - Complex science and insight generation
 - Capacity building
 
-## Who we work with
+## Who We Serve
 
 We support the entire public sector in Manitoba, including:
 

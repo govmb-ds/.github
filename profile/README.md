@@ -28,8 +28,6 @@ We support the entire public sector in Manitoba, including:
 
 ### Work Here
 
-We're hiring! See [the job ad](https://jobsearch.gov.mb.ca/adnoSearch?adno=44081) for more information.
-
 We are accepting expressions of interest for PhD and post-doc positions through the [CIHR Health System Impact Fellowship](https://cihr-irsc.gc.ca/e/51721.html?filter=manitoba) program. 
 
 ### Already in the public sector?

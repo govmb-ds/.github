@@ -28,8 +28,6 @@ We support the entire public sector in Manitoba, including:
 
 ### Work Here
 
-We are accepting expressions of interest for PhD and post-doc positions through the [CIHR Health System Impact Fellowship](https://cihr-irsc.gc.ca/e/51721.html?filter=manitoba) program. 
-
 We are hiring a [Climate Impact Scientist](https://jobsearch.gov.mb.ca/adnoSearch?adno=44169).
 
 ### Already in the public sector?

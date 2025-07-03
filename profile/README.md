@@ -28,7 +28,7 @@ We support the entire public sector in Manitoba, including:
 
 ### Work Here
 
-We are hiring a [Climate Impact Scientist](https://jobsearch.gov.mb.ca/adnoSearch?adno=44169).
+We are not currently recruiting for any roles. Please check back soon.
 
 ### Already in the public sector?
 
